@@ -5,3 +5,5 @@ Y
 )src/customermailapplication/Customer.java,d\0\d00323ef242c7dc7aeeda4aee60434dd42a11697
 h
 8src/customermailapplication/CustomerMailApplication.java,1\f\1ffb2972109aa51ac111eb9e32be928aeb26bde4
+`
+0src/customermailapplication/CustomerFactory.java,e\c\ec0fb0584aa3d0c9d466b646dfa3168b536eaac4

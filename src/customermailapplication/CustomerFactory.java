@@ -7,7 +7,7 @@ package customermailapplication;
 
 /**
  *
- * @author sarun
+ * @author Ayna
  */
 public class CustomerFactory{
     /**
